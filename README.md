@@ -3,4 +3,13 @@
 
 testing GitHub actions for CI/CD
 
-1. Linting works now
+1.  Linting &check;
+
+TODO:
+
+1. **cmake hello world**
+2. **blinky on STM32L432KC**
+   - what is needed?
+3. **dummy math module**
+   - unit testable math function
+4. **google test to github actions on that math module**
