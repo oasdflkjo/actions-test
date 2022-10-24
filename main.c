@@ -1,6 +1,6 @@
-#include<stdio.h>
-
-#include<main.h>
+// Copyright 2022 OasdflkjO
+#include <stdio.h>
+#include <main.h>
 
 int main(void)
 {
