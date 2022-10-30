@@ -12,4 +12,4 @@ TODO:
    - what is needed?
 3. **dummy math module**
    - unit testable math function
-4. **google test to github actions on that math module**
+4. **google test to GitHub actions on that math module**
